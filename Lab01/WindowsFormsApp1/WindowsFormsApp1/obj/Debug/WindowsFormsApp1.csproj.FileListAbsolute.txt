@@ -11,3 +11,17 @@ E:\GitHub\ASP.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.c
 E:\GitHub\ASP.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 E:\GitHub\ASP.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\GitHub\ASP.NET\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\37529\Documents\GitHub\ASP.NET\Lab01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

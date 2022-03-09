@@ -27,8 +27,6 @@ namespace PYS_Lab01
             res.ContentType = "text/plain";
             res.Write("POST-HTTP-PYS: ParmA= " + parmA + ", ParmB= " + parmB);
         }
-
-
         #endregion
     }
 }

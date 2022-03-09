@@ -19,7 +19,7 @@ namespace PYS_Lab01
             get { return true; }
         }
 
-        public void ProcessRequest(HttpContext context)
+        public void ProcessRequest(HttpContext context) //Включает обработку веб-запросов 
         {
             HttpResponse res = context.Response;
             var parmA = context.Request.QueryString.Get("ParmA");

@@ -17,14 +17,14 @@ namespace PYS_Lab01b
         #region Члены IHttpHandler
 
         WebSocket socket;
-        public bool IsReusable
+        public bool IsReusable //свойство
         {
             // Верните значение false в том случае, если ваш управляемый обработчик не может быть повторно использован для другого запроса.
             // Обычно значение false соответствует случаю, когда некоторые данные о состоянии сохранены по запросу.
             get { return false; }
         }
 
-        public void ProcessRequest(HttpContext context)
+        public void ProcessRequest(HttpContext context) //метод
         {
             if (context.IsWebSocketRequest)
             {
@@ -34,8 +34,8 @@ namespace PYS_Lab01b
         private async Task WebSocketRequest(AspNetWebSocketContext context)
         {
             socket = context.WebSocket;
-            string s = await Receive();
-            await Send(s);
+            string s = await Receive(); //прием и отправка
+            await Send(s); // пересылает клиенту
             int i = 0;
             while (socket.State == WebSocketState.Open)
             {
